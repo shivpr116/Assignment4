@@ -1,0 +1,10 @@
+{
+    "breakfast":
+    [
+        {"name": "Pranthe", "Price":"$15","Calories":"5000"},
+        {"name": "makhan", "Price":"$700","Calories":"9000"},
+        {"name": "lassi", "Price":"$99","Calories":"110"}
+
+    ]
+
+}

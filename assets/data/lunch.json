@@ -1,0 +1,10 @@
+{
+    "lunch":
+    [
+        {"name": "kadi chawal", "Price":"$500","Calories":"1000"},
+        {"name": "dahi", "Price":"$700","Calories":"90"},
+        {"name": "salad", "Price":"$9","Calories":"80"}
+
+    ]
+
+}
